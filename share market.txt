@@ -9,8 +9,8 @@ IPO : ( Initial public offering ) public ko apne shares pehli baar offer krwarah
 investor give a small amount and become owners of a small share of the company
 
 markets for buying shares : -
--------> Bombay Stock Exchange(5400 approx).
--------> National Stock Exchange(1700 approx).
+------> Bombay Stock Exchange(5400 approx).
+------> National Stock Exchange(1700 approx).
 
  *** your shares are stored in a Demat Account and are traded through your trading account.
 
