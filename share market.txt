@@ -1,0 +1,63 @@
+# Stock marketing / Share market / Equity market 
+
+buying some ownership. 
+ 
+Sell share for company.
+(public listing of a company).
+
+IPO : ( Initial public offering ) public ko apne shares pehli baar offer krwarahe ho.
+investor give a small amount and become owners of a small share of the company
+
+markets for buying shares : -
+-------> Bombay Stock Exchange(5400 approx).
+-------> National Stock Exchange(1700 approx).
+
+ *** your shares are stored in a Demat Account and are traded through your trading account.
+
+price of a share depends on market forces basically, demand and supply
+
+--> More Sellers and Less Buyers = Price Goes down.
+--> More Buyers and Less Sellers = Price Goes up.
+
+-----> Sensex and Nifty 50.
+
+--> how do you know if a business is doing well?
+--> If we compare the performance of mearby shops then we get a baseline to mesure preformance this is what index is. 
+
+----> Sensex(Sensitivity index) -> 30 of the largest  and most actively-traded stocks on the BSE.
+
+----> Nifty 50(National + fifty) -> 50 stock index accounting for 13 sector index owned by NSE.
+
+inflation - depreciation in value of money.
+
+investing is not a privilege it is necessity today.
+
+-->first understand the company then only invest into it.
+--> you need to be active to make your money earn money.
+
+-> Primary Market -  company sell the share
+				 price fixing.
+				 depends on the demand.
+				 companies decide the range.
+				 minimum and maximum price.
+
+	----> every share has equal value.
+	----> 1,00,000 value = 1,00,00 share Rs 1.
+	----> not sell 100% share.
+	----> CEO usually has majority of shares
+
+-> Secondary Market -> where people sell shares.
+				       company cannot control share price.
+				       price depends on the demand and supply.
+
+SEBI (security and Exchange Board of India) :
+----> This is a regulatory body that looks into issues like which complanies should be listed on the stock exchange, fullfill the norms of SEBI.
+
+
+ 
+
+
+
+
+
+
