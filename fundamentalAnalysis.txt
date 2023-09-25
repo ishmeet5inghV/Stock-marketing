@@ -1,0 +1,50 @@
+---------------------fundamental analysis-----------------------
+
+thing im buying is expensive or not.
+
+part 1 ---> value investing -> jb kissi bhi stock ko uski intrinsic value se km me kharid lena
+
+Ratio->
+     1. PE Ratio -> price to earning.
+     2. PB Ration -> price to book value.
+     3. Debt to equaty Ratio.
+     4. Current Ratio. 
+
+check this Ratio for basic analysis 
+
+--------------> PE Ratio(Price to earning) - -----------------
+             value of share price / earning from one share = PE ratio
+company A    1000                   100                    = 10 
+company B    2000                   100                    = 20
+
+basic common sence toh ye bolti hai ki PE sasta hai company sasti hai.
+                                       PE mehnga hai company mehngi hai.
+
+** but this is not that simple as it looks
+
+so what PE is if company is earning 100 per year so how much money
+i am giving for that earning which is 1000.
+
+how much money to give depends upon future earnings
+
+mehnga pe is also not bad sometimes its good 
+agar company bhot earn kregi toh mehnga PE sasta bhi hoga
+
+agar company apna profit bhot teji se bhadati hai toh kuch farak nahi
+padhta share ko kitne bhi mehnge P/E pr lelo kyoki apke buying price pe uska
+P/E bhot km hojayega.
+
+jaise jaise profit bhadega P/E km hota jayega.
+
+agar koi company apna profit earning km km krke bhada rahi hai toh market usko
+waise hi km P/E de deta hai 
+
+if earning is uncertain then P/E is also uncertain.
+P/E dega dhoka.
+
+----------------->PB (book value)--------------------
+
+
+
+
+right analysis is important
