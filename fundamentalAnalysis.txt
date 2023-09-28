@@ -4,11 +4,13 @@ thing im buying is expensive or not.
 
 part 1 ---> value investing -> jb kissi bhi stock ko uski intrinsic value se km me kharid lena
 
+* intrinsic value se km buy
+*
 Ratio->
-     1. PE Ratio -> price to earning.
-     2. PB Ration -> price to book value.
-     3. Debt to equaty Ratio.
-     4. Current Ratio. 
+     1. PE Ratio -> price to earning. <<<<
+     2. PB Ration -> price to book value. <<<<<
+     3. Debt to equaty Ratio. <<<<
+     4. Current Ratio. >>>>
 
 check this Ratio for basic analysis 
 
@@ -42,9 +44,60 @@ waise hi km P/E de deta hai
 if earning is uncertain then P/E is also uncertain.
 P/E dega dhoka.
 
------------------>PB (book value)--------------------
+-----------------> P.B.ratio (price to book ratio)--------------------
+
+Price to book ratio = share price / B.V per share.
+
+**PE ratio -ve loss
+
+share price - market price chal raha hai
+B.V. = assets - liabilities 100 - 50 = 50
+ 
+B.V. per share = B.V. / total shares. 50/10 = 5
+
+Price to book ratio = share price / B.V. per share. - 20 / 5 = 4
+
+1 rs ke net assets ke liye 4 rs de rahe hai us share ko kharidne ke liye.
+
+or example me hum 20 rs de rahe hai 5 rs ke assets kharidne ke liye 
+4 guna paisa de rahe hai book value se
+
+companies -> no IT companies cos assets are low
+             ASSERS must be present. appreciated or depreciated check this also.
 
 
+----------------> Debt to Equity ratio -------------------
+ 
+ debt / equity 2, 10, 20 debt is more.
+ debt is cheap
+ equity is expensive
+ no loan in starting
 
+
+ ----------------->  Current ratio -----------------------
+
+ Current assets / Current liabilities 20cr / 10cr 2 ratio is ok
+
+
+--------------------------------------------------------------
+
+ ****************balance sheet*******************
+
+ (1) More Sales.
+ (2) More Profit.
+ (3) Assets increase liabilities decrease.
+ (4) Cash flow.
+
+***************************************************
+____________________ Advance analysis ____________________
+
+--> What Business
+--> need in the market
+--> Future of Business
+--> monopoly or not
+--> compititors
+--> sales
+--> cash flow
+--> Political backgroud
 
 right analysis is important
