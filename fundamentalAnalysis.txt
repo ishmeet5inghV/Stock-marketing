@@ -100,4 +100,34 @@ ____________________ Advance analysis ____________________
 --> cash flow
 --> Political backgroud
 
-right analysis is important
+******* Dividend Yield -> how much dividend company is giving
+
+***** company ke paas aa kya raha hai or bach kya raha hai
+
+
+***** go to stock screener -> you can select nifty 50 100 500 -> add filter
+          filter like ratio(debt, cover interest, current ratio).
+
+**** companies starter ---> promoters
+if they want they can sell the share or take money on behave of that shares.
+share ke budle paisa jb uthayente jb market se paisa nahi mil raha
+
+share sell buy by the companies good thing
+>> advance fundamental analysis >> important
+
+Promoter holding trend
+
+increase total promoter holding -----> good
+
+low Pledged promoter holding -----> good 
+          means promoter is not selling share
+          vo paisa utha rahe hai share ke badale me
+
+**** jaise hi kiss bhi company ke andar mutual fund ya foreign institutional invester
+     enter krte hai uska share bhagega 
+     kyoki jb koi foreign institute pasie dalta hai generally vo jada paise dalta hai
+     
+
+
+**** check the free cash flow
+     increasing or not if yes good
