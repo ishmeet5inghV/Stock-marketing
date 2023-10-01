@@ -4,12 +4,12 @@ thing im buying is expensive or not.
 
 part 1 ---> value investing -> jb kissi bhi stock ko uski intrinsic value se km me kharid lena
 
-* intrinsic value se km buy
+* intrinsic value se km, buy
 *
 Ratio->
      1. PE Ratio -> price to earning. <<<<
      2. PB Ration -> price to book value. <<<<<
-     3. Debt to equaty Ratio. <<<<
+     3. Debt to equity Ratio. <<<<
      4. Current Ratio. >>>>
 
 check this Ratio for basic analysis 
@@ -109,8 +109,8 @@ ____________________ Advance analysis ____________________
           filter like ratio(debt, cover interest, current ratio).
 
 **** companies starter ---> promoters
-if they want they can sell the share or take money on behave of that shares.
-share ke budle paisa jb uthayente jb market se paisa nahi mil raha
+if they want they can sell the share or take money on behave of their shares.
+share ke budle paisa tb uthayente jb market se paisa nahi mil raha
 
 share sell buy by the companies good thing
 >> advance fundamental analysis >> important
@@ -123,11 +123,11 @@ low Pledged promoter holding -----> good
           means promoter is not selling share
           vo paisa utha rahe hai share ke badale me
 
-**** jaise hi kiss bhi company ke andar mutual fund ya foreign institutional invester
+**** jaise hi kissi bhi company ke andar mutual fund ya foreign institutional invester
      enter krte hai uska share bhagega 
-     kyoki jb koi foreign institute pasie dalta hai generally vo jada paise dalta hai
+     kyoki jb koi foreign institute paise dalta hai generally vo jada paise dalta hai
      
-
+ 
 
 **** check the free cash flow
      increasing or not if yes good
