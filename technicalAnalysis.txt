@@ -46,7 +46,7 @@ Start -> high -> low -> higher high -> higher low -> higher high -> higher low .
 
 -----(2) Down trend ------>
 
-start -> low -> lower high -> lower low -> lower high -> lower low -> lower high.
+start -> low -> lower high -> lower low -> lower high -> lower low -> lower high
 
 ----> points connected from up jb tk break na krde tb tk bolenge Down trend hai.
 
