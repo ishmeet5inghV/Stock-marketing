@@ -1,0 +1,109 @@
+-------------------- technical Analysis -------------------------->
+
+-> Analysis by looking at charts and Price action.
+
+-> When to buy, 
+   when to sell, 
+   till when to hold.
+
+-> In investing and trading
+
+# Important things -> Itentify Trend 
+                   -> Support and Resistance
+
+
+# Types of trend -->
+    (1) Up trend
+    (2) Down trend
+    (3) Sideways / Consolidation
+
+# Rules -->
+
+* Trend Is My Friend
+* Never Trade Against The Trend
+
+Trading -------->
+
+    * Trend Trading. ✔️
+    * Reversal Trading.
+    * Breakout / Breakdown
+
+-----(1) Up trend -------->
+images\Technical Analysis\down Trend in upstox.png
+
+\images\Technical Analysis\up trend and down trend rough img.png
+
+Start -> high -> low -> higher high -> higher low -> higher high -> higher low .............
+
+******* low or higher low se line bnao
+
+******* Jo hum trend ki line draw kr rahe hai vo support ka kamm krti hai
+        10 : 41 TS -> video 6
+
+******* Support and Resistance humesha ek zone hota hai aap trend line
+        plot krdete ho pr krna nahi chahiye aapko ek zone ke hisab se 
+        trade krna chahiye toh thoda bhot uper niche ja skta hai
+
+-----(2) Down trend ------>
+
+start -> low -> lower high -> lower low -> lower high -> lower low -> lower high.
+
+----> points connected from up jb tk break na krde tb tk bolenge Down trend hai.
+
+-----(3) Sideways -------->
+
+Making two lines up and down
+
+* up ( jisse price uper nahi ja para ) = Resistance
+
+* down ( jisse price niche nahi ja para ) = Support
+
+Sideways market apko ek range me trade krte hue dikhti hai.
+
+------- Options Buying ----->
+-> Market ^ buy called
+-> Market > buy Put
+
+****** when price is going up then buy *********
+
+****** don't invest in down Trend ( loose money )*********
+
+
+
+***** Indicator ******
+
+----> Super Trend
+
+steps ->
+(1) plot trend line take two points identify trend.
+    (Technical Analysis\Select trend line.png)
+ 
+(2) Search on Indicator - Super trend.
+    it tells which trend is where.
+
+(3) D (left to Indicator) -> Time frame.
+
+(4) Without technical dekhte hue trade nahi krna.
+
+(5) Only invest when up trend.
+
+(6) Can change the settings of super trend.
+
+-------> how to get to now how much is the up
+         trend is power full--------------->
+
+Indicator ----> adx
+
+yaha pr ek line dikhti hai check out image
+\images\Technical Analysis\technicalAnalysis(Adx)image.png
+
+* adx must be above 25
+* uper me takat hai
+* niche me takat hai
+* entry tb leni hai jb 25 se uper ho
+
+
+
+
+
+
